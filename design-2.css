@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: lightpink;
+    font-size: 50px;
+    font-family: Verdana;
+    font-style: italic;
+}
+body{ 
+    background-image: url(water\ lily.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h2{ 
+    letter-spacing: 3px;
+    text-align: center;
+    color: lightpink;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Verdana;
+    font-style: italic;
+}
